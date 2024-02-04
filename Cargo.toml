@@ -1,0 +1,16 @@
+[package]
+name = "minesweeper"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.26"
+eframe = "0.22.0"
+egui_extras = { version = "0.22.0", features = ["svg"] }
+rand = "0.8.5"
+serde = "1.0.164"
+serde_derive = "1.0.164"
+serde_json = "1.0.97"
+soloud = "1.0.2"
