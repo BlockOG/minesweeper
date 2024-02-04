@@ -2,15 +2,15 @@
 
 Uhh, well, it's minesweeper, here're the controls I guess:
 
-| Key         | Action                      | Normal | Replay |
-| ----------- | --------------------------- | ------ | ------ |
-| LMB         | Open cell                   | [x]    | [ ]    |
-| RMB         | Flag cell                   | [x]    | [ ]    |
-| R           | Restart game/replay         | [x]    | [x]    |
-| Enter       | Toggle replay mode          | [x]    | [x]    |
-| ESC         | Toggle settings menu        | [x]    | [x]    |
-| Space       | Pause/Resume replay         | [ ]    | [x]    |
-| Left Arrow  | Go back a move in replay    | [ ]    | [x]    |
-| Right Arrow | Go forward a move in replay | [ ]    | [x]    |
-| Up Arrow    | Double playback speed       | [ ]    | [x]    |
-| Down Arrow  | Halve playback speed        | [ ]    | [x]    |
+| Key         | Action                      | Normal                | Replay                |
+| ----------- | --------------------------- | --------------------- | --------------------- |
+| LMB         | Open cell                   | <ul><li>[x]</ul></li> | <ul><li>[ ]</ul></li> |
+| RMB         | Flag cell                   | <ul><li>[x]</ul></li> | <ul><li>[ ]</ul></li> |
+| R           | Restart game/replay         | <ul><li>[x]</ul></li> | <ul><li>[x]</ul></li> |
+| Enter       | Toggle replay mode          | <ul><li>[x]</ul></li> | <ul><li>[x]</ul></li> |
+| ESC         | Toggle settings menu        | <ul><li>[x]</ul></li> | <ul><li>[x]</ul></li> |
+| Space       | Pause/Resume replay         | <ul><li>[ ]</ul></li> | <ul><li>[x]</ul></li> |
+| Left Arrow  | Go back a move in replay    | <ul><li>[ ]</ul></li> | <ul><li>[x]</ul></li> |
+| Right Arrow | Go forward a move in replay | <ul><li>[ ]</ul></li> | <ul><li>[x]</ul></li> |
+| Up Arrow    | Double playback speed       | <ul><li>[ ]</ul></li> | <ul><li>[x]</ul></li> |
+| Down Arrow  | Halve playback speed        | <ul><li>[ ]</ul></li> | <ul><li>[x]</ul></li> |
