@@ -32,7 +32,7 @@ jobs:
             - name: Upload artifact
               uses: actions/upload-artifact@v4
               with:
-                  name: minesweeper
+                  name: minesweeper-${{ runner.os }}
                   path: |
                       target/release/minesweeper
                       target/release/minesweeper.exe
