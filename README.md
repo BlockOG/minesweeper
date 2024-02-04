@@ -8,7 +8,7 @@ Uhh, well, it's minesweeper, here're the controls I guess:
 | RMB         | Flag cell                   | &#128994; | &#128308; |
 | R           | Restart game/replay         | &#128994; | &#128994; |
 | Enter       | Toggle replay mode          | &#128994; | &#128994; |
-| ESC         | Toggle settings menu        | &#128994; | &#128994; |
+| Escape      | Toggle settings menu        | &#128994; | &#128994; |
 | Space       | Pause/Resume replay         | &#128308; | &#128994; |
 | Left Arrow  | Go back a move in replay    | &#128308; | &#128994; |
 | Right Arrow | Go forward a move in replay | &#128308; | &#128994; |
