@@ -2,8 +2,8 @@
 
 Uhh, well, it's minesweeper, here're the controls I guess:
 
-| Key         | Action                      | Normal    | Replay    |
-| ----------- | --------------------------- | --------- | --------- |
+| Key         | Action                      |  Normal   |  Replay   |
+| ----------- | --------------------------- | :-------: | :-------: |
 | LMB         | Open cell                   | &#128994; | &#128308; |
 | RMB         | Flag cell                   | &#128994; | &#128308; |
 | R           | Restart game/replay         | &#128994; | &#128994; |
