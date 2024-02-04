@@ -19,8 +19,16 @@ jobs:
 
         steps:
             - uses: actions/checkout@v4
+
+            - name: Cache packages
+              uses: actions/cache@v4
+              with:
+                  key: ${{ runner.os }}
+                  path: target
+
             - name: Build
               run: cargo build --release
+
             - name: Upload artifact
               uses: actions/upload-artifact@v4
               with:
